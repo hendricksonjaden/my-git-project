@@ -1,4 +1,6 @@
 # My Git Project
 
+> My code for the git project
 
-Hello
+# I'm in the featured branch
+
